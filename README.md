@@ -9,7 +9,7 @@
 ## [Тренировочный раунд (2025.08)](./2025.08/training/)
 
 1. 🟢 [Кто мяукает?](./2025.08/training/task1/README.md)
-2. 🔴 [ASCII-роботы](./2025.08/training/task2/README.md)
+2. 🟢 [ASCII-роботы](./2025.08/training/task2/README.md)
 3. 🔴 [ASCII-горы](./2025.08/training/task3/README.md)
 4. 🔴 [Валидация карты](./2025.08/training/task4/README.md)
 5. 🔴 [Оригами](./2025.08/training/task5/README.md)
